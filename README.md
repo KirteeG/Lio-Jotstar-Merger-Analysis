@@ -23,7 +23,7 @@ The goal of this analysis is to gain insights into:
 - **DAX**: Advanced calculations and metrics
 
 ## 📊 Live Dashboard
-🔗 [View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmRkZTViNDgtYjgwZS00ZDViLWFjMGEtMDdiYzJiMGJmNjZkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 [View the Power BI Dashboard]https://app.powerbi.com/view?r=eyJrIjoiODEzMDYxYTktYjIxOS00N2Y1LWFmNDMtNTI3NmMzNGEzNDE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## 🚀 Project Challenge
 This project was part of **Codebasics Project Challenge #14**.
